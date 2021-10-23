@@ -1,0 +1,3 @@
+{
+    "files": ["main.py", "LightPlayer.qml", "Screen01.ui.qml", "qtquickcontrols2.conf"]
+}
